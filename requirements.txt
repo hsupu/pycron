@@ -1,0 +1,7 @@
+-f http://mirrors.aliyun.com
+-f http://pypi.douban.com
+crontab==0.22.0
+python-dateutil==2.6.1
+ruamel.yaml==0.15.34
+six==1.11.0
+strictyaml==0.9.0
